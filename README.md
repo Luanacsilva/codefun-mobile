@@ -28,6 +28,23 @@ Criado com o objetivo de treinar integração com APIs externas, manipulação d
 
 ---
 
+## 📁 Estrutura do Projeto
+
+```bash
+
+codefun-mobile/
+├── assets/ # Imagens e ícones do app
+├── App.js # Componente principal da aplicação
+├── app.json # Configurações do Expo (nome, ícone, splash)
+├── babel.config.js # Configuração do Babel para o Expo
+├── LICENSE # Licença do projeto (MIT)
+├── package.json # Dependências e scripts do projeto
+├── README.md # Documentação do projeto
+
+```
+
+---
+
 ## ▶️ Como Rodar o Projeto
 
 1. Clone o repositório:
