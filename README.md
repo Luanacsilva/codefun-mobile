@@ -1,5 +1,11 @@
 # 🤖 CodeFun Mobile — Dev Jokes App
 
+![stack: frontend](https://img.shields.io/badge/stack-frontend-orange)
+![framework: React Native](https://img.shields.io/badge/framework-React%20Native-blueviolet)
+![tool: Expo](https://img.shields.io/badge/tool-Expo-000)
+![api: JokeAPI](https://img.shields.io/badge/api-JokeAPI-yellow)
+![status: concluído](https://img.shields.io/badge/status-concluído-brightgreen)
+![license: MIT](https://img.shields.io/badge/license-MIT-green)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 
